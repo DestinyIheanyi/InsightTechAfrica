@@ -18,7 +18,7 @@ export function Contact() {
           <div>
             <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
             <p className="text-gray-600 mb-8">
-              Have questions about our programs? Want to partner with us? We'd love to hear from you.
+              Have questions about our programs? Want to partner with us? We are ready to work with you on anything.
             </p>
             
             <div className="space-y-6">
